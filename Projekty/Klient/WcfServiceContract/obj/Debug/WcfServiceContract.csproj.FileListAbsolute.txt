@@ -1,0 +1,22 @@
+C:\Users\marko\Downloads\serwer\serwer\WcfServiceContract\WcfServiceContract\bin\Debug\WcfServiceContract.dll.config
+C:\Users\marko\Downloads\serwer\serwer\WcfServiceContract\WcfServiceContract\bin\Debug\WcfServiceContract.xml
+C:\Users\marko\Downloads\serwer\serwer\WcfServiceContract\WcfServiceContract\bin\Debug\WcfServiceContract.dll
+C:\Users\marko\Downloads\serwer\serwer\WcfServiceContract\WcfServiceContract\bin\Debug\WcfServiceContract.pdb
+C:\Users\marko\Downloads\serwer\serwer\WcfServiceContract\WcfServiceContract\obj\Debug\WcfServiceContract.csprojResolveAssemblyReference.cache
+C:\Users\marko\Downloads\serwer\serwer\WcfServiceContract\WcfServiceContract\obj\Debug\WcfServiceContract.csproj.CoreCompileInputs.cache
+C:\Users\marko\Downloads\serwer\serwer\WcfServiceContract\WcfServiceContract\obj\Debug\WcfServiceContract.dll
+C:\Users\marko\Downloads\serwer\serwer\WcfServiceContract\WcfServiceContract\obj\Debug\WcfServiceContract.pdb
+C:\Users\marko\Desktop\RSI LAB3 2\RSI LAB3\Serwer\WcfServiceContract\WcfServiceContract\bin\Debug\WcfServiceContract.dll.config
+C:\Users\marko\Desktop\RSI LAB3 2\RSI LAB3\Serwer\WcfServiceContract\WcfServiceContract\bin\Debug\WcfServiceContract.xml
+C:\Users\marko\Desktop\RSI LAB3 2\RSI LAB3\Serwer\WcfServiceContract\WcfServiceContract\bin\Debug\WcfServiceContract.dll
+C:\Users\marko\Desktop\RSI LAB3 2\RSI LAB3\Serwer\WcfServiceContract\WcfServiceContract\bin\Debug\WcfServiceContract.pdb
+C:\Users\marko\Desktop\RSI LAB3 2\RSI LAB3\Serwer\WcfServiceContract\WcfServiceContract\obj\Debug\WcfServiceContract.csprojResolveAssemblyReference.cache
+C:\Users\marko\Desktop\RSI LAB3 2\RSI LAB3\Serwer\WcfServiceContract\WcfServiceContract\obj\Debug\WcfServiceContract.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\RSI LAB3 2\RSI LAB3\Serwer\WcfServiceContract\WcfServiceContract\obj\Debug\WcfServiceContract.dll
+C:\Users\marko\Desktop\RSI LAB3 2\RSI LAB3\Serwer\WcfServiceContract\WcfServiceContract\obj\Debug\WcfServiceContract.pdb
+C:\Users\Martyna\Desktop\Studia\Semestr 6\RSI\LAB 3\Część 2\Projekty\Serwer\WcfServiceContract\WcfServiceContract\bin\Debug\WcfServiceContract.dll.config
+C:\Users\Martyna\Desktop\Studia\Semestr 6\RSI\LAB 3\Część 2\Projekty\Serwer\WcfServiceContract\WcfServiceContract\bin\Debug\WcfServiceContract.xml
+C:\Users\Martyna\Desktop\Studia\Semestr 6\RSI\LAB 3\Część 2\Projekty\Serwer\WcfServiceContract\WcfServiceContract\bin\Debug\WcfServiceContract.dll
+C:\Users\Martyna\Desktop\Studia\Semestr 6\RSI\LAB 3\Część 2\Projekty\Serwer\WcfServiceContract\WcfServiceContract\bin\Debug\WcfServiceContract.pdb
+C:\Users\Martyna\Desktop\Studia\Semestr 6\RSI\LAB 3\Część 2\Projekty\Serwer\WcfServiceContract\WcfServiceContract\obj\Debug\WcfServiceContract.dll
+C:\Users\Martyna\Desktop\Studia\Semestr 6\RSI\LAB 3\Część 2\Projekty\Serwer\WcfServiceContract\WcfServiceContract\obj\Debug\WcfServiceContract.pdb

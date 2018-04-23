@@ -6,7 +6,7 @@
     <members>
         <member name="T:WcfServiceHost_V2.Program">
             <summary>
-            Martyna Kumaszka
+            Martyna Kumaszka, Tomasz Mosur
             Klasa hosta z którą łączy się klient
             </summary>
         </member>

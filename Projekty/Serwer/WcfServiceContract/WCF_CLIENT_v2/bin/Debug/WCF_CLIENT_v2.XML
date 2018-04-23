@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WCF_CLIENT_v2</name>
+    </assembly>
+    <members>
+        <member name="T:WCF_CLIENT_v2.Program">
+            <summary>
+            Martyna Kumaszka
+            Klasa interfajsu klienta
+            </summary>
+        </member>
+        <member name="F:WCF_CLIENT_v2.Program.client">
+            <summary>
+            Klient do połączenia
+            </summary>
+        </member>
+        <member name="M:WCF_CLIENT_v2.Program.Main(System.String[])">
+            <summary>
+            Główna funkcja programu
+            </summary>
+            <param name="args">Argumenty startowe - nie używane</param>
+        </member>
+        <member name="M:WCF_CLIENT_v2.Program.Show">
+            <summary>
+            Metoda wyswietlająca słownik
+            </summary>
+        </member>
+        <member name="M:WCF_CLIENT_v2.Program.Add(System.String[])">
+            <summary>
+            Metoda dodająca tłumaczenie do słownika
+            </summary>
+            <param name="words">Tablica zawierająca parę słów</param>
+        </member>
+        <member name="M:WCF_CLIENT_v2.Program.Modify(System.String[])">
+            <summary>
+            Metoda modyfikująca tłumaczenie
+            </summary>
+            <param name="words">Polecenie podzielone na słowa</param>
+        </member>
+        <member name="M:WCF_CLIENT_v2.Program.Remove(System.String[])">
+            <summary>
+            Metoda usuwająca tłumaczenie ze słownika
+            </summary>
+            <param name="words">Polecenie podzielone na słowa</param>
+        </member>
+        <member name="M:WCF_CLIENT_v2.Program.TranslateWord(System.String[])">
+            <summary>
+            Metoda pobierająca tłumaczenie całęgo słowa
+            </summary>
+            <param name="words">Polecenie podzielone na słowa</param>
+        </member>
+        <member name="M:WCF_CLIENT_v2.Program.TranslatePartWord(System.String[])">
+            <summary>
+            Metoda pobierająca tłumaczenie części słowa
+            </summary>
+            <param name="words">Polecenie podzielone na słowa</param>
+        </member>
+        <member name="M:WCF_CLIENT_v2.Program.ShowHelp">
+            <summary>
+            Metoda wyświetlajaca komendy możliwe do wykonania w programie
+            </summary>
+        </member>
+    </members>
+</doc>

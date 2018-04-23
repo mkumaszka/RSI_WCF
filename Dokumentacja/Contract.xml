@@ -6,7 +6,7 @@
     <members>
         <member name="T:WcfServiceContract.ICalculator">
             <summary>
-            Martyna Kumaszka
+            Martyna Kumaszka, Tomasz Mosur
             Główny interface usługi słownika
             </summary>
         </member>
@@ -18,7 +18,7 @@
             <param name="value">Słowo po polski</param>
             <param name="translation">Słowo przetłumaczona na język angielski</param>
         </member>
-        <member name="M:WcfServiceContract.ICalculator.Wyszukaj(System.String,System.Boolean)">
+        <member name="M:WcfServiceContract.ICalculator.Wyszukaj(System.String)">
             <summary>
             Wyszukaj tłumaczenie
             </summary>
@@ -48,7 +48,7 @@
         </member>
         <member name="T:WcfServiceContract.MyCalculator">
             <summary>
-            Martyna Kumaszka
+            Martyna Kumaszka, Tomasz Mosur
             Klasa z implementacją interfacu słownika
             </summary>
         </member>
@@ -70,7 +70,7 @@
             <param name="value">Słowo po polski</param>
             <param name="translation">Słowo przetłumaczona na język angielski</param>
         </member>
-        <member name="M:WcfServiceContract.MyCalculator.Wyszukaj(System.String,System.Boolean)">
+        <member name="M:WcfServiceContract.MyCalculator.Wyszukaj(System.String)">
             <summary>
             Wyszukaj tłumaczenie
             </summary>

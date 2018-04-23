@@ -10,7 +10,7 @@ using WcfServiceContract;
 namespace WcfServiceHost_V2
 {
     /// <summary>
-    /// Martyna Kumaszka, Tomasz Mosur
+    /// Martyna Kumaszka
     /// Klasa hosta z którą łączy się klient
     /// </summary>
     public class Program
