@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WcfServiceContract</name>
+    </assembly>
+    <members>
+        <member name="T:WcfServiceContract.ICalculator">
+            <summary>
+            Martyna Kumaszka, Tomasz Mosur
+            Główny interface usługi słownika
+            </summary>
+        </member>
+        <member name="M:WcfServiceContract.ICalculator.DodajDoSlownika(System.String,System.String)">
+            <summary>
+            Metoda dodania do słownika
+            </summary>
+            <returns><c>true</c>jeśli dodano poprawnie do słownika<c>false</c>jeśli wystąpił błąd</returns>
+            <param name="value">Słowo po polski</param>
+            <param name="translation">Słowo przetłumaczona na język angielski</param>
+        </member>
+        <member name="M:WcfServiceContract.ICalculator.Wyszukaj(System.String)">
+            <summary>
+            Wyszukaj tłumaczenie
+            </summary>
+            <returns>String z wyszukanym tłumaczeniem / tłumaczeniami</returns>
+            <param name="value">Polskie słowo</param>
+        </member>
+        <member name="M:WcfServiceContract.ICalculator.Usun(System.String)">
+            <summary>
+            Usuwa ze słownika określone tłumaczenie
+            </summary>
+            <returns>Czy wartość została usunięta.</returns>
+            <param name="value">Słowo kucz ze słownika</param>
+        </member>
+        <member name="M:WcfServiceContract.ICalculator.Modyfikuj(System.String,System.String)">
+            <summary>
+            Modyfikuje tłumaczenie
+            </summary>
+            <returns>Czy poprawnie zmodyfikowano</returns>
+            <param name="value">Polskie słowo</param>
+            <param name="translation">Nowa wersja tłumaczenie po angielsku</param>
+        </member>
+        <member name="T:WcfServiceContract.MyCalculator">
+            <summary>
+            Martyna Kumaszka, Tomasz Mosur
+            Klasa z implementacją interfacu słownika
+            </summary>
+        </member>
+        <member name="F:WcfServiceContract.MyCalculator.slownik">
+            <summary>
+            Obiekt w którym zapisywany jest słownik
+            </summary>
+        </member>
+        <member name="M:WcfServiceContract.MyCalculator.#ctor">
+            <summary>
+            Konstruktor klasy
+            </summary>
+        </member>
+        <member name="M:WcfServiceContract.MyCalculator.DodajDoSlownika(System.String,System.String)">
+            <summary>
+            Metoda dodania do słownika
+            </summary>
+            <returns><c>true</c>jeśli dodano poprawnie do słownika<c>false</c>jeśli wystąpił błąd</returns>
+            <param name="value">Słowo po polski</param>
+            <param name="translation">Słowo przetłumaczona na język angielski</param>
+        </member>
+        <member name="M:WcfServiceContract.MyCalculator.Wyszukaj(System.String)">
+            <summary>
+            Wyszukaj tłumaczenie
+            </summary>
+            <returns>String z wyszukanym tłumaczeniem / tłumaczeniami</returns>
+            <param name="value">Polskie słowo</param>
+        </member>
+        <member name="M:WcfServiceContract.MyCalculator.Usun(System.String)">
+            <summary>
+            Usuwa ze słownika określone tłumaczenie
+            </summary>
+            <returns>Czy wartość została usunięta.</returns>
+            <param name="value">Słowo kucz ze słownika</param>
+        </member>
+        <member name="M:WcfServiceContract.MyCalculator.Modyfikuj(System.String,System.String)">
+            <summary>
+            Modyfikuje tłumaczenie
+            </summary>
+            <returns>Czy poprawnie zmodyfikowano</returns>
+            <param name="value">Polskie słowo</param>
+            <param name="translation">Nowa wersja tłumaczenie po angielsku</param>
+        </member>
+    </members>
+</doc>

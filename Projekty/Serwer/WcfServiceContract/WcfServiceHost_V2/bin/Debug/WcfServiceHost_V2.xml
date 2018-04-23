@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WcfServiceHost_V2</name>
+    </assembly>
+    <members>
+        <member name="T:WcfServiceHost_V2.Program">
+            <summary>
+            Martyna Kumaszka, Tomasz Mosur
+            Klasa hosta z którą łączy się klient
+            </summary>
+        </member>
+        <member name="M:WcfServiceHost_V2.Program.Main(System.String[])">
+            <summary>
+            Metoda główna programu, to tutaj włącza się serwer
+            </summary>
+            <param name="args">Argumenty uruchomienia - tutaj nie używane</param>
+        </member>
+        <member name="M:WcfServiceHost_V2.Program.ShowEndpoint(System.ServiceModel.Description.ServiceEndpoint)">
+            <summary>
+            Sunkcja wyświetlająca szczegółu endpointu
+            </summary>
+            <param name="endpoint">Endpoint który chcemy wyświetlić</param>
+        </member>
+    </members>
+</doc>
