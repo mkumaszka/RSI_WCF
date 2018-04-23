@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WcfServiceClient_V2.ServiceReference1;
+using WcfServiceClient_V2.ServiceReference2;
 
 namespace WcfServiceClient_V2
 {
@@ -131,7 +131,7 @@ namespace WcfServiceClient_V2
         {
             if (words.Length == 2)
             {
-                Console.WriteLine(client.Wyszukaj(words[1], ""));
+                Console.WriteLine(client.Wyszukaj(words[1]));
             }
             else
                 Console.WriteLine("Niepoprawna komenda");
@@ -143,8 +143,8 @@ namespace WcfServiceClient_V2
         public static void ShowHelp()
         {
             Console.WriteLine("Oto operacje które możesz wykonać:");
-            Console.WriteLine("   ADD [słowo angielskie] [słowo polskie]");
-            Console.WriteLine("   TRANSLATE [słowo angielskie]");
+            Console.WriteLine("   ADD [słowo polskie] [słowo angielskie]");
+            Console.WriteLine("   TRANSLATE [słowo polskie]");
             Console.WriteLine("   MODIFY [słowo polskie]");
             Console.WriteLine("   REMOVE [słowo polskie]");
             Console.WriteLine("");

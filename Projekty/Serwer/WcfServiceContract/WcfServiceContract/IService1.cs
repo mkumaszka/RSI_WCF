@@ -50,5 +50,12 @@ namespace WcfServiceContract
         [OperationContract]
         bool Modyfikuj(String value, String translation);
 
+        /// <summary>
+        /// Wyświetla słownik
+        /// </summary>
+        /// <returns>Słownik do wyświetlenia</returns>
+        [OperationContract]
+        Dictionary<String, String> Wyswietl();
+
     }
 }

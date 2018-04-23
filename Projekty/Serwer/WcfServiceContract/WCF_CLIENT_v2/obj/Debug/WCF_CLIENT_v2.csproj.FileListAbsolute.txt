@@ -1,0 +1,5 @@
+C:\Users\Martyna\Desktop\Studia\Semestr 6\RSI\LAB 3\Część 2\Projekty\Serwer\WcfServiceContract\WCF_CLIENT_v2\bin\Debug\WCF_CLIENT_v2.exe.config
+C:\Users\Martyna\Desktop\Studia\Semestr 6\RSI\LAB 3\Część 2\Projekty\Serwer\WcfServiceContract\WCF_CLIENT_v2\bin\Debug\WCF_CLIENT_v2.exe
+C:\Users\Martyna\Desktop\Studia\Semestr 6\RSI\LAB 3\Część 2\Projekty\Serwer\WcfServiceContract\WCF_CLIENT_v2\bin\Debug\WCF_CLIENT_v2.pdb
+C:\Users\Martyna\Desktop\Studia\Semestr 6\RSI\LAB 3\Część 2\Projekty\Serwer\WcfServiceContract\WCF_CLIENT_v2\obj\Debug\WCF_CLIENT_v2.exe
+C:\Users\Martyna\Desktop\Studia\Semestr 6\RSI\LAB 3\Część 2\Projekty\Serwer\WcfServiceContract\WCF_CLIENT_v2\obj\Debug\WCF_CLIENT_v2.pdb

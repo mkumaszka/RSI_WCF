@@ -94,6 +94,15 @@ namespace WcfServiceContract
             return true;
         }
 
+        /// <summary>
+        /// Wyswietla słownik
+        /// </summary>
+        /// <returns>Słownik</returns>
+        public Dictionary<string, string> Wyswietl()
+        {
+            return slownik;
+        }
+
 
 
     }
